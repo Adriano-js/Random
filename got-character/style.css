@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    margin: 0;
+    font-family: Roboto;
+    font-weight: 400;
+}
+
+.title {
+    font-size: 10px;
+}
+
+.character {
+    position: relative;
+    left: 40%;
+    width: 15%;
+    height: 30%;
+    text-align: center;
+    padding: 3%;
+    -webkit-box-shadow: 7px 7px 0px 0px rgba(0,0,0,0.22);
+    -moz-box-shadow: 7px 7px 0px 0px rgba(0,0,0,0.22);
+    box-shadow: 7px 7px 0px 0px rgba(0,0,0,0.22);
+}
+
+.bio {
+    font-weight: 500;
+}
